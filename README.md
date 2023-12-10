@@ -1,5 +1,5 @@
 ```bash
-git clone https://github.com/Tanmay-codeol/Automatic_captcha_generator.git
+git clone https://github.com/Tanmay-codeol/Automatic_caption_generator.git
 cd ACG
 make setup
 ```
